@@ -36,9 +36,9 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	},
 	{
-		"name": "Jewish anarchy",
-		"leaderName": "Benjamin Netanyahu",
-		"adjective": ["anarchy"],
+		"name": "Holy Roman Empire",
+		"leaderName": "Otto the Great",
+		"adjective": ["holyroman"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
@@ -67,12 +67,12 @@
 		"innerColor": [40,48,133],
 		"uniqueName": "Jewish",
 		"uniques": [
-			"[+15 Gold, +50 Production] [in capital]",
+			"[+1005 Gold, +500 Production] [in capital]",
 			"[+10000]% [Science]",
 			"[+100000]% [Happiness]",
 			"[+1500]% XP gained from combat"
 		],
-		"cities": ["Jerusalem","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"cities": ["Wien","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
