@@ -10,7 +10,7 @@
 		"range": 2,
 		"cost": 500,
 		"requiredTech": "Dynamite",
-		"requiredResource": "COal",
+		"requiredResource": "Coal",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
