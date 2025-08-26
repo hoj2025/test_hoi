@@ -39,7 +39,7 @@
 		"name": "Jewish anarchy",
 		"leaderName": "Benjamin Netanyahu",
 		"adjective": ["anarchy"],
-		"startBias": ["Snow"],
+		"startBias": ["Planis"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
@@ -65,7 +65,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "Starts with [Atomic Theory]",
+		"unique": "Free [Mechanized Infantry] appears",
 		"cities": ["Jerusalem","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
