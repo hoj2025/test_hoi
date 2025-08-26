@@ -66,7 +66,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [40,48,133],
 		"uniqueName": "Jewish",
-		"unique": [
+		"uniques": [
 			"[+15 Gold, +50 Production] [in capital]"
 		],
 		"cities": ["Jerusalem","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
