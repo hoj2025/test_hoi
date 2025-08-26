@@ -63,14 +63,14 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,217,0],
-		"uniqueName": "Einan",
+		"outerColor": [255,217,0],
+		"innerColor": [16,16,16],
+		"uniqueName": "Ein Volk Ein Reich Ein Kaiser",
 		"uniques": [
 			"[+1005 Gold, +5000000 Production] [in capital]",
-			"[+10000]% [Science]",
+			"[+100000000]% [Science]",
 			"[+100000]% [Happiness]",
-			"[+1500]% XP gained from combat"
+			"[+150000]% XP gained from combat"
 		],
 		"cities": ["Wien","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
