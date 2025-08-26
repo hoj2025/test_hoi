@@ -65,6 +65,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [40,48,133],
+		"uniqueName": "Jewish",
 		"unique": [
 			"[+15 Gold, +50 Production] [in capital]"
 		],
