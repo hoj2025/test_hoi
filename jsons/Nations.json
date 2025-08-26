@@ -39,7 +39,7 @@
 		"name": "Jewish anarchy",
 		"leaderName": "Benjamin Netanyahu",
 		"adjective": ["anarchy"],
-		"startBias": ["Planis"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
