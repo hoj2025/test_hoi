@@ -64,10 +64,10 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [40,48,133],
+		"innerColor": [255,217,0],
 		"uniqueName": "Einan",
 		"uniques": [
-			"[+1005 Gold, +500 Production] [in capital]",
+			"[+1005 Gold, +5000000 Production] [in capital]",
 			"[+10000]% [Science]",
 			"[+100000]% [Happiness]",
 			"[+1500]% XP gained from combat"
