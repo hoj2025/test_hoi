@@ -1,0 +1,46 @@
+[
+    // Base terrains
+    {
+        "name": "Ocean",
+        "type": "Water",
+        "food": 1,
+        "movementCost": 1,
+        "RGB": [45,108,145]
+    },
+    {
+        "name": "Coast",
+        "type": "Water",
+        "food": 1,
+        "movementCost": 1,
+        "RGB": [107,167,193],
+        "uniques": [
+            "[+2] to Fertility for Map Generation",
+            "Considered [Desirable] when determining start locations <on water maps>",
+            "Considered [Food] when determining start locations",
+            "Every [60] tiles with this terrain will receive a major deposit of a strategic resource."
+        ]
+    },
+    {
+        "name": "Grassland",
+        "type": "Land",
+        "food": 2,
+        "movementCost": 1,
+        "RGB": [97,171,58],
+        "uniques": [
+            "Occurs at temperature between [-0.5] and [-0.4] and humidity between [0.8] and [1]",
+            "Occurs at temperature between [-0.4] and [0.1] and humidity between [0.4] and [1]",
+            "Occurs at temperature between [0.1] and [0.2] and humidity between [0.5] and [1]",
+            "Occurs at temperature between [0.2] and [0.5] and humidity between [0.6] and [1]",
+            "Occurs at temperature between [0.5] and [0.6] and humidity between [0.8] and [1]",
+            "Occurs at temperature between [0.6] and [0.7] and humidity between [0.6] and [1]",
+            "Occurs at temperature between [0.7] and [0.9] and humidity between [0.5] and [1]",
+            "Occurs at temperature between [0.9] and [1.0] and humidity between [0.2] and [1]",
+            "[+3] to Fertility for Map Generation",
+            "A Region is formed with at least [20]% [Grassland] tiles, with priority [7]",
+            "A Region can not contain more [Plains] tiles than [Grassland] tiles",
+            "Considered [Desirable] when determining start locations",
+            "Considered [Food] when determining start locations",
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+        ]
+    },
+]
